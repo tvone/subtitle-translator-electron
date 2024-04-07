@@ -6,7 +6,7 @@
 </p>
 
 ## How to custom model
-- Find it in the root of the app and change it
+- Find file .env in the root of the app and change it
 - Example : CUSTOM_MY_MODEL=gpt-4-1106-preview
 - gpt-4-1106-preview is model name
 
