@@ -1,7 +1,6 @@
-gnehs
 # Subtitle Translator
 
-<img width="783" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/subtitle_electron.PNG">
+<img width="780" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/subtitle_electron.PNG">
 <p align="center">
   Translate subtitle using ChatGPT
 </p>
@@ -26,4 +25,4 @@ gnehs
 - Support multiple languages
 - Translation according to the preceding and following sentences
 
-## [Origin](https://github.com/gnehs/subtitle-translator-electron/releases/latest)
+Thank you gnehs
