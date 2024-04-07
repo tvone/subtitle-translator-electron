@@ -1,6 +1,6 @@
 # Subtitle Translator
 
-<img width="780" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/subtitle_electron.PNG">
+<img width="780" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/subtitle_electron1.PNG">
 <p align="center">
   Translate subtitle using ChatGPT
 </p>
