@@ -10,6 +10,8 @@
 - Example : CUSTOM_MY_MODEL=gpt-4-1106-preview
 - gpt-4-1106-preview is model name
 
+<img width="251" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/custom_env.PNG">
+
 ## Why custom temperature and top_p
 
 Nucleus sampling is a technique used in large language models to control the randomness and diversity of generated text. It works by sampling from only the most likely tokens in the model’s predicted distribution.<br />
@@ -28,8 +30,6 @@ In general:
 OpenAI recommends only altering either temperature or top-p from the default.<br />
 
 Temperature and Top_p have a default of 1
-
-<img width="251" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/custom_env.PNG">
 
 ## Supported subtitle extensions
 
