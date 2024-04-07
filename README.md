@@ -1,3 +1,4 @@
+gnehs
 # Subtitle Translator
 
 <img width="783" src="https://github.com/tvone/subtitle-translator-electron/blob/master/assets/subtitle_electron.PNG">
